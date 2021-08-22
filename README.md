@@ -25,7 +25,7 @@
 
 </div>
 
-### I'm a Software Engineer, Developer and #Asp.Net Core lover
+### I'm a Software Engineer, Developer and C# Asp.Net Core lover
 - 💖 First Of all I love My Happiness
 - 🔭 I’m realy interested about C# And Asp.Net Core
 - 💬 Ask me anything about C# And Asp.Net Core
