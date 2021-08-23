@@ -1,4 +1,4 @@
-### Hey there, I'm  Ramin. You can also Call me (HEDI) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm  Ramin. You can also Call me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
 <p align="center">Join Me In Socials!</p>
@@ -30,7 +30,6 @@
 - 🔭 I’m realy interested about C# And Asp.Net Core
 - 💬 Ask me anything about C# And Asp.Net Core
 - 🌏 You can find me in social that is mentioned in top
-- 
 ### Languages & Tools
 <div>
 <img src="https://img.shields.io/badge/Asp.Net%20Core-C%23-green">
